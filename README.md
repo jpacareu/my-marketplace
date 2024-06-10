@@ -30,7 +30,7 @@ npm run dev
 
 ## Features
 
-- Render a list of items from a JSON mock file
+- Render a list of items from a [JSON mock file](./mocks/json-stub.json)
 - Show detailed information for each item
 
 ## Components
@@ -40,8 +40,8 @@ npm run dev
 
 ## API
 
-- fetchItems: Fetches the items from the JSON mock file.
-- fetchItem: Fetches the item from the JSON mock file based on id.
+- fetchItems: Fetches the items from the [JSON mock file](./mocks/json-stub.json).
+- fetchItem: Fetches the item from the [JSON mock file](./mocks/json-stub.json) based on id.
 
 ## Styles
 
