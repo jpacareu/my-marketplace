@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "image": "https://via.placeholder.com/300",
+    "title": "Beautiful Family House",
+    "price": 250000,
+    "location": "123 Main St, Springfield, IL",
+    "features": ["3 beds", "2 baths", "1500 sqft"],
+    "availability": "For Sale"
+  },
+  {
+    "id": "2",
+    "image": "https://via.placeholder.com/300",
+    "title": "Modern Apartment",
+    "price": 180000,
+    "location": "456 Elm St, Springfield, IL",
+    "features": ["2 beds", "1 bath", "800 sqft"],
+    "availability": "For Sale"
+  },
+  {
+    "id": "3",
+    "image": "https://via.placeholder.com/300",
+    "title": "Cozy Cottage",
+    "price": 300000,
+    "location": "789 Oak St, Springfield, IL",
+    "features": ["4 beds", "3 baths", "2000 sqft"],
+    "availability": "For Rent"
+  }
+]
