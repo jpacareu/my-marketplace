@@ -41,7 +41,7 @@ npm run dev
 ## API
 
 - fetchItems: Fetches the items from the JSON mock file.
-- fetchItems: Fetches the item from the JSON mock file based on id.
+- fetchItem: Fetches the item from the JSON mock file based on id.
 
 ## Styles
 
